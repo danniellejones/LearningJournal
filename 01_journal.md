@@ -1,6 +1,11 @@
 # Learning Journal Week 01
 
 ## Subject Introduction and Web Design Basics
+**Weekly Objectives:**
+- [x] Read subject outline and assessment requirements
+- [x] Organise and prepare learning journal
+- [x] Explore/install new suggested software
+- [x] Revise HTML and CP1406 content
 
 ### Learning Activity
 
