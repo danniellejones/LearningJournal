@@ -5,7 +5,7 @@
 - [ ] Research & brainstorm startups
 - [ ] Create basic website using HTML & CSS
 - [ ] Explore CMSs: WordPress application & Joomla!
-- [ ] Learn CSS and JS
+- [x] Learn Bootstrap
 - [x] Research Plugins
 - [x] Learn Mark Down
 
@@ -106,9 +106,45 @@ study session/day.
 
 Bootstrap 5 <br>
 [Bootstrap 5 Essential Training](https://www.linkedin.com/learning/bootstrap-5-essential-training/the-most-popular-framework?autoplay=true&u=2223545) <br>
-Estimated Time: 4h 20m
+Estimated Time: 4h 20m; Actual Time: 10m
 
 #### Content Insights:
+When starting the first workshop task, I wanted to use bootstrap (I had already downloaded a zip folder). I had no idea 
+how to really make it work, so I tried some playing around in PHPStorm. Still unsuccessful, I referred to LinkedIn 
+learning to provide an overview of how to use Bootstrap. I wanted to watch a video based on the same version that I had
+downloaded to prevent confusion. Straight away I had no idea what the video was talking about. It used a lot of acronyms
+I did not understand and felt it was far beyond a beginners level to the content. 
 
+After completing Bootstrap 2021 learning activity... <br>
+Upon returning to this tutorial, it made a lot more sense after I completed the easier tutorial and I spent some time
+exploring the [getbootstrap website](https://getbootstrap.com/) and the [popper website](https://popper.js.org/). This 
+revealed icons and other templates that are available for download/use. I found it useful throughout the video to use 
+the project 'Bare', started in the Bootstrap 2021 learning activity, to test and experiment with the topics addressed in this 
+video.
 
 #### Career/Employability/Learning Insights:
+I realised that spending the next 4 hours on a tutorial that was far too advanced would not be productive. In response,
+I sought a different learning video to see if a different teacher would help take a different approach to the content.
+Before leaving the current video, I did a sneak-peak of the chapters this video covered and determined that it might be 
+beneficial to return to this content when I obtained a better base-level understanding. 
+
+
+
+### Learning Activity
+
+Bootstrap 2021 <br>
+[Create a quick, clean, and cheap website with Bootstrap templates](https://www.linkedin.com/learning/create-a-quick-clean-and-cheap-website-with-bootstrap-templates/what-you-need?autoSkip=true&autoplay=true&resume=false&u=2223545) <br>
+Estimated Time: 1h 50m
+
+#### Content Insights:
+This video suggested to use [Start Bootstrap site](https://startbootstrap.com/) to learn how to use Boostrap. It started
+with simple and clear explanations on the grid layout. It was after this point I was able to determine that this video 
+was more appropriate to my current knowledge level. It was also interesting to consider that obtaining templates from 
+online can raise copyright concerns - not all templates are free and often need to be purchased. The last sections of
+the pathway went through basic HTML elements and was not useful to increasing my understanding of Bootstrap. 
+
+#### Career/Employability/Learning Insights:
+Prevent wasting time by choosing learning content that starts at your current learning level/ability. It is important
+that within the first 5-10 minutes to make a judgement on whether this is the right starting point. The listed 
+chapters also allow one to look ahead to see if there is any further relevant content to your learning. This will help 
+improve my engagement with the LinkedIn learning resources.
