@@ -17,7 +17,7 @@ Estimated Time: 3h 38m <br>
 The videos provided a brief overview of HTML, CSS and JS. It then talked about the discipline 
 of web design and the areas of specialization. It went into more detail about web hosts, domain
 names, content strategy, code editors, testing tools, prototyping, frameworks, standards and 
-establishing your workflow. 
+establishing your workflow. The last topics were most important to focus on.
 
 #### Career/Employability/Learning Insights: <br>
 I took notes while watching the videos in order to keep myself engaged, as well as document 
@@ -109,7 +109,7 @@ Estimated Time: 10m
 
 #### Content Insights:
 Upon installing Docker I received a message that it required a newer WSL kernel version. 
-I had no idea what that meant so I looked it up on the Windows learn site and eventually 
+I had no idea what that meant, so I looked it up on the Windows learn site and eventually 
 concluded that it was safe to proceed with the instructions given by the Docker software to 
 update.
 
@@ -126,21 +126,21 @@ Estimated Time: 2h 45m
 
 #### Content Insights:
 A compilation of videos on foundation-level HTML to re-learn/refresh my memory on the tags 
-that are available, structure for my site and to ensure that understood how to construct my 
-web pages. Notes.
+that are available, structure for my site and to ensure that I understood how to construct my 
+web pages. 
 
 #### Career/Employability/Learning Insights:
 I looked for the most updated videos on HTML, I was able to find one from the last couple of 
 years. I found very quickly watching these videos that I did not enjoy learning from this 
 instructor, I felt the order of the videos was a little unnatural and had difficulty getting 
 into the flow. Most of the content I was confident with from my experiences with HTML in 
-CP1406 so I decided to speed up the playback of content until it addressed tags and 
+CP1406, so I decided to speed up the playback of content until it addressed tags and 
 structures that I was unfamiliar with. For the most part, I wrote shorthand notes as I know 
-that I can look at sites like w3schools to go into more detail if I wanted to implement these
-into my website. It was more about having a knowledge that these tags existed and what they 
-accomplished, then included their formatting in my shorthand notes. I already noticed that 
-some things taught in regards to responsive images was different to what was taught in CP1406
-subject; it would be about making a decision to use the most appropriate format for the 
-project or this would be perhaps where I establish my own personal standards for 
-practice/code. 
+that I can look at sites like W3Schools to go into more detail if I wanted to implement these
+into my website. It was more about having an awareness that these tags existed and what they 
+accomplished, then included their formatting in my shorthand notes. I noticed that 
+some things taught in CP1406 was different to what this instructor suggested, the instructor also gave convincing 
+explanations of why to do in this alternative way; therefore, I intend to adapt my professional practice based 
+on which practice has the most logical and convincing explanations. This will help me establish my own personal 
+standards for code. 
 
