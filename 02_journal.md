@@ -2,9 +2,9 @@
 
 ## Mark Down, Introduction to CMS, Plugins and Startups
 **Weekly Objectives:**
-- [ ] Research & brainstorm startups
-- [ ] Create basic website using HTML & CSS
-- [ ] Explore CMSs: WordPress application & Joomla!
+- [x] Research & brainstorm startups
+- [x] Create basic website using HTML & CSS
+- [x] Explore CMSs: WordPress application
 - [x] Learn Bootstrap
 - [x] Research Plugins
 - [x] Learn Mark Down
