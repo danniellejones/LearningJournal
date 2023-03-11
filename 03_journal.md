@@ -2,13 +2,12 @@
 
 ## Interviews & Teamwork; WordPress: installation, settings, contents, navigation, themes and plugins
 **Weekly Objectives:**
-- [ ] Work with WordPress
-- [ ] Work with Joomla!
-- [ ] Join a team
-- [ ] Develop skills in JavaScript
-- [ ] Develop skills in PHP
-- [ ] Set up Vagrant or Docker for development
 - [ ] Set up Microsoft Azure web hosting
+- [ ] Work with Joomla!
+- [ ] Set up Vagrant or Docker for development
+- [ ] Setup for using WordPress
+- [ ] Join a team _(postponed to week 4)_
+- [ ] Develop skills in JavaScript/PHP
 
 ### Learning Activity
 
@@ -42,5 +41,64 @@ each). Qualities: Ambitious/Perseverance, Self-Reflective, Available/Flexible, S
 
 
 
+### Learning Activity
+
+WordPress: Workflows <br>
+[WordPress: Workflows (2015)](https://www.linkedin.com/learning/wordpress-workflows-2015/welcome?autoplay=true&u=2223545) <br>
+Estimated Time: 1h 6m
+
+#### Content Insights:
+The WordPress: Workflows LinkedIn video was divided into three sections from a novice, then moving into more
+advanced workflows. I decided it was important to watch all the videos to see how each led into the next. It was very useful
+in providing more detail to what constitutes as a local environment verses a live environment (staging and production). 
+It suggested that as part of your workflow it was smart to set up on a live environment early so that you can properly 
+test your site. It also suggested for teams working on themes (like the second assignment) that when using version control 
+there should be a Master (stable) version, a development branch, and a feature/experiment branch. This ensures you always 
+having a working and stable version during development. Themes were discussed as either a parent or a child theme, these
+can be made to work in unison where the parent can be used with modifications from the child theme. The parent theme can
+act as a backup and receive updates in case the child theme ever becomes non-usable. 
+
+
+#### Career/Employability/Learning Insights:
+It was interesting to learn that creating WordPress themes is a potential career pathway, I will definitely keep this in mind as a career 
+prospect in the near future. I will use the second assignment as a test to see if this is a career opportunity I am particularly
+interested in and hopefully learn as much as I can to potentially pursue this avenue. 
+In terms of learning from this pathway, I would say that development environments are slowly becoming less confusing, but
+I still need to understand how vagrant and the actual setup of the CMS fits into this equation. 
+
+### Learning Activity
+
+Joomla CMS <br>
+[Joomla! 4 Essential Training](https://www.linkedin.com/learning/joomla-4-essential-training/the-flexible-platform-for-website-creators?autoplay=true&u=2223545) <br>
+Estimated Time: 5h 30m
+
+#### Content Insights:
+The LinkedIn pathway for Joomla essentials started with installation instructions suggesting to select a host from the 
+suggestions on their website. These instructions were not helpful; therefore, I will need to find further information.
+The remaining video delved into an overview of the different elements of Joomla's interface. It did emphasise to put the
+content in place first before worrying about the theme or appearance of the site - this was different from what was 
+suggested in the workflows video that was more test as you go. It was interesting that it showed how to use the CAPTCHA 
+plugin which could be very useful for my contact form. A contact list in Joomla could also be useful for the teams page
+display on the site. It also showed how using modules in the same position can be useful for the features section of my site. 
+
+#### Career/Employability/Learning Insights:
+In starting this pathway I kept wanting to start doing things as the video was doing them. I found that this was not 
+conducive to my learning as I was no longer listening to the next parts of the video and had to re-watch sections. Equally,
+pausing the video and trying it also made me too distracted. I found
+that taking notes whilst watching the video was much more productive. I want to cover the topics in this subject in as 
+much detail as possible as this is a career prospect I am very interested in; however, I need to consider that some 
+aspects, such as modifying the admin template, are less relevant to me at this stage of my learning. Changing things like 
+this at this point can make watching tutorials very hard to follow as it will be different to the default. I will aim at only 
+retaining a surface level understanding of these type of topics at this stage.
+
+### Learning Activity
+
+Vagrant and Vagrant Boxes <br>
+[Getting Started](https://developer.hashicorp.com/vagrant/tutorials/getting-started) <br>
+Estimated Time: 1h
+
+#### Content Insights:
+
+#### Career/Employability/Learning Insights:
 
 
