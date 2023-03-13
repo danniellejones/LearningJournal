@@ -16,19 +16,21 @@ Web Design Process <br>
 Estimated Time: 2h 15m
 
 #### Content Insights:
-The LinkedIn course on the modern web design process highlighted topics such as: roles/responsibilities, creating guides,
-and the web design process overall. It was important to note the separation of roles where it recommends that UX design, 
-System Architect, Quality Assurance and Beta Testing roles are separated at minimum from the person involved in the 
-other roles e.g. Front-End, Back-End Developers. It was also interesting to hear about the guides: style, content, code
-and process. These aspects will help with understanding future team dynamics in web design and basic methods to 
-improve collaboration. The aspects on the web design process were interesting where it was described as a 
+
+The LinkedIn course on the modern web design process highlighted topics such as: roles/responsibilities, creating
+guides, and the web design process overall. It was important to note the separation of roles where it recommends that UX
+design, System Architect, Quality Assurance and Beta Testing roles are separated at minimum from the person involved in
+the other roles e.g. Front-End, Back-End Developers. It was also interesting to hear about the guides: style, content,
+code and process. These aspects will help with understanding future team dynamics in web design and basic methods to
+improve collaboration. The aspects on the web design process were interesting where it was described as a
 'dynamic process', which means the foundations of the process will stay the same, but adaptability is key.
 
 #### Career/Employability/Learning Insights:
-This course expanded my mind to the more in-depth realm of web design and how building sites can become more complex. At 
-this point my view was rather narrow, that websites only really need a single person or a small team. It has made web 
-design more daunting as a career option, particularly due to how much I have struggled with developing live web 
-environments. The process is very theoretical still,  which is good as a foundation, but I will not be able to cement my 
+
+This course expanded my mind to the more in-depth realm of web design and how building sites can become more complex. At
+this point my view was rather narrow, that websites only really need a single person or a small team. It has made web
+design more daunting as a career option, particularly due to how much I have struggled with developing live web
+environments. The process is very theoretical still, which is good as a foundation, but I will not be able to cement my
 understanding until I have successfully followed the process myself.
 
 ### Learning Activity
@@ -39,6 +41,43 @@ Estimated Time: 1h 43m
 
 #### Content Insights:
 
+The LinkedIn course gave an overview of version control and how to use it for different applications. The most
+significant part was Section 5 on sharing a project, which may be required for future reference when looking at
+assignment 2. Basic process is as follows:
+Fork > Branch > Commit Changes > Push > Pull Request > Merge Pull Request > Fetch > Pull
+
+#### Career/Employability/Learning Insights:
+
+This course really only felt a little valuable towards the end, but it did suggest there was a course called GitHub for
+Web Designers for further (hopefully more context specific) learning.
+
+### Learning Activity
+
+Moving from Local Environment to Live Environment <br>
+[Migrating WordPress with Migrating DB and DB Pro](https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro/who-this-course-is-for-and-how-it-works?autoSkip=true&autoplay=true&resume=false&u=2223545) <br>
+[WordPress Migration 2020](https://www.linkedin.com/learning/wordpress-migration/preparing-for-migration?autoSkip=true&autoplay=true&resume=false&u=2223545) <br>
+Estimated Time: 2h 7m
+
+#### Content Insights:
+
+The migration courses from LinkedIn talked about using WP Migrate DB in order to create the .sql.gz file that would then
+be imported into the live site database using PhpMyAdmin. It then used FTP to transfer across the files from the
+wp-content folder for the plugins and themes. In order to follow this process the live site needed to have the database
+setup with a fresh installation of WordPress to use the plugin.
+
+#### Career/Employability/Learning Insights:
+
+These videos felt like the step after the one I was up to in terms of setting up a live site as I hadn't gotten the
+database set up correctly yet. It was good to watch as it gave me some new insight into perhaps some of the things I was
+doing wrong and why I was struggling with the database at this point. It gave me a new direction of things to try.
+
+### Learning Activity
+
+Topic <br>
+[LinkDesc](URL) <br>
+Estimated Time: h m
+
+#### Content Insights:
 
 #### Career/Employability/Learning Insights:
 
@@ -53,7 +92,6 @@ Estimated Time: h m
 #### Content Insights:
 
 #### Career/Employability/Learning Insights:
-
 
 ### Learning Activity
 
