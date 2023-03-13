@@ -2,12 +2,12 @@
 
 ## Interviews & Teamwork; WordPress: installation, settings, contents, navigation, themes and plugins
 **Weekly Objectives:**
-- [ ] Set up Microsoft Azure web hosting
-- [ ] Work with Joomla!
-- [ ] Set up Vagrant or Docker for development
-- [ ] Setup for using WordPress
+- [ ] Set up Microsoft Azure web hosting _(Issues!)_
+- [x] Work with Joomla! - Local Environment & via Cloud Access host only
+- [ ] Set up Vagrant or Docker for development _(More Required)_
+- [x] Setup for using WordPress - Local Environment Only
 - [ ] Join a team _(postponed to week 4)_
-- [ ] Develop skills in JavaScript/PHP
+- [ ] Develop skills in JavaScript/PHP _(Low-Priority)_
 
 ### Learning Activity
 
@@ -74,7 +74,7 @@ Estimated Time: 5h 30m
 
 #### Content Insights:
 The LinkedIn pathway for Joomla essentials started with installation instructions suggesting to select a host from the 
-suggestions on their website. These instructions were not helpful; therefore, I will need to find further information.
+suggestions on their website. These instructions were not helpful; therefore, I sought further information from ChatGPT.
 The remaining video delved into an overview of the different elements of Joomla's interface. It did emphasise to put the
 content in place first before worrying about the theme or appearance of the site - this was different from what was 
 suggested in the workflows video that was more test as you go. It was interesting that it showed how to use the CAPTCHA 
@@ -93,12 +93,21 @@ retaining a surface level understanding of these type of topics at this stage.
 
 ### Learning Activity
 
-Vagrant and Vagrant Boxes <br>
-[Getting Started](https://developer.hashicorp.com/vagrant/tutorials/getting-started) <br>
-Estimated Time: 1h
+Docker Basics <br>
+[Get up and running quick with Docker](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?autoSkip=true&autoplay=true&resume=false&u=2223545) <br>
+Estimated Time: 1h 57m
 
 #### Content Insights:
+When starting this LinkedIn course I believed I was at a stage that made sense to learn and then implement Docker into 
+my workflow. There was strong emphasis on using the command line to create containers and images, despite their being a GUI
+available for Windows. The most I was able to understand what Docker does is that it creates a container to contain the 
+requirements for running the web app correctly. Also, it is easier to use than vagrant which is a virtual environment. 
 
 #### Career/Employability/Learning Insights:
+At the end of watching these videos I found myself able to understand the commands, but I did not understand how Docker
+is meant to really work with my site. I think that I need to see how this all works with the context that I am working in 
+before I really understand Docker. I attempted to look at a few other videos online to see if there was a good example use
+case, but I have not yet been successful. 
+
 
 
