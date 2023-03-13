@@ -73,25 +73,44 @@ doing wrong and why I was struggling with the database at this point. It gave me
 
 ### Learning Activity
 
-Topic <br>
-[LinkDesc](URL) <br>
-Estimated Time: h m
+Databases and Linking to Live Site <br>
+[Azure Data Studio Essential Training](https://www.linkedin.com/learning/azure-data-studio-essential-training-15050110/what-is-azure-data-studio?autoSkip=true&autoplay=true&resume=false&u=2223545) <br>
+[Azure Essential Training for Developers](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?autoplay=true&u=2223545) <br>
+
+Estimated Time: 2h 54m, Actual Time: 30m
 
 #### Content Insights:
 
+I looked at Azure training videos on LinkedIn in hopes that it might help me figure out how to make my Azure SQL
+database usable for my website. All the current information I kept finding online for how to implement a website
+involved a Azure SQL database, but the instructions were out-dated and the buttons they used to perform the setups were
+no longer available. Unfortunately this content only provided overview information, not the specific detail that I was
+looking for.
+
 #### Career/Employability/Learning Insights:
 
+There were so many out-dated learning materials for Microsoft Azure that it made me contemplate changing web hosts.
+I generally am a click-around-and-figure-it-out kind of person, but it has not been clear where to do anything.
+If I am unable to use Docker containers to set up my site on Microsoft Azure, I might be forced to change as I cannot 
+find relevant material to understand how to deploy my sites. 
 
 ### Learning Activity
 
 Docker, Docker Desktop and Docker-Compose <br>
 [Docker Compose](https://docs.docker.com/compose/gettingstarted/) <br>
 [Docker](https://docs.docker.com/get-started/) <br>
-Estimated Time: h m
+[How to deploy Joomla with Docker](https://www.techrepublic.com/article/how-to-deploy-joomla-docker/) <br>
+[Docker and ACI](https://docs.docker.com/cloud/aci-integration/) <br>
+Estimated Time: 10h
 
 #### Content Insights:
 
+The first part of the learning journey was to understand Docker containers and Docker images. The second part of the
+journey was creating them, running them and connecting them to a network. The third part was looking writing a docker
+compose file. The last part was learning how to use this on Microsoft Azure.
+
 #### Career/Employability/Learning Insights:
+
 
 ### Learning Activity
 
