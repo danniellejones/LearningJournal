@@ -31,17 +31,66 @@ each). Qualities: Ambitious/Perseverance, Self-Reflective, Available/Flexible, S
 
 #### Questions:
 
-1. What are grade do realistically aim to achieve in this subject?
+1. What grade do realistically aim to achieve in this subject?
 2. How comfortable are you with online meetings and using digital whiteboard tools for collaboration?
 3. Tell me about a problem you experienced with a team in the past and how you overcame it?
-4. What are the three best times in your availability for team meetings?
-5. What would you consider is your greatest strength in either web development or in teamwork management?
+4. What would you consider is your greatest strength in either web development or in teamwork management?
+
+This question was removed from my selection as it seemed the least relevant. I thought knowing who they were was
+priority first and I could ask for availability if I wanted to reach out later. <br>_What are the three best times in
+your availability for team meetings?_
 
 #### Responses:
 
+Isaac Barry
+
+1. High-credit
+2. Very
+3. Use to really struggle with setting up meetings; so I just got everyone to put in a timesheet with availabilities
+4. Not amazing at web dev
+
+Cody Moxham <br>
+
+1. Aim is High
+2. Some use brief for work, weekly meetings
+3. Not many problems, uni projects issues with no performers and get everyone together and agree
+4. Research and troubleshooting, project management
+
+Lee Crawford
+
+1. At least a credit
+2. Comfortable and done design subjects that involved that
+3. Teams in past have been great, it was hard when there was way more work and issue with communication and
+   accountability,
+   not able to make a plan; Go to the lecturer and put pressure on teammates
+4. Web subject did well in, teamwork is the greatest strength due to maturity, management experience with teams
+
+Arjun Baiju
+
+1. Distinction
+2. Came from engineering where slack was used a lot and zoom, so familiar with tools
+3. Teammate had to reach out to lecturer to get a new teammate, teammate made up for it in the end
+4. Met up 2-3 times a week to check everyone is on track, past I have taken charge
+
+Meetings occurred as a big group pool, unfortunately this was less effective as the more outspoken people responded.
+
+James Lewthwaite <br>
+Availability: Works during the day Monday-Friday.
+Successful groups and talk through major problems, get in earlier and probe people to see what is going on.
+Good at knuckling down and figuring it out, self-learning.
+
+James McNeill
+Likes the back-end and not good at design.
+
 #### Content Insights:
 
+Students were split into pairs to conduct interviews; at the end a larger group participated in a group interview.
+
 #### Career/Employability/Learning Insights:
+
+I found that closed questions were great for time, like I had theorised. The open questions; however, produced the most
+interesting responses. A question was removed from my proposed interview questions due to time constraints, but found
+that the other questions often gave insight into their availability.
 
 ### Learning Activity
 
