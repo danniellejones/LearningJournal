@@ -4,9 +4,9 @@
 
 **Weekly Objectives:**
 
-- [ ] Customise WordPress site for Assignment 1
-- [ ] Customise Joomla site for Assignment 1
-- [ ] Continue Development/Staging/Live learning journey
+- [x] WordPress site for Assignment 1
+- [x] Joomla site for Assignment 1
+- [x] Continue Development/Staging/Live learning journey
 
 ### Learning Activity
 
@@ -71,10 +71,38 @@ WordPress.
 
 ### Learning Activity
 
-Docker Compose and Azure <br>
-[Tutorial: Deploy a multi-container group using Docker Compose](https://learn.microsoft.com/en-us/azure/container-instances/tutorial-docker-compose) <br>
-Estimated Time: h m
+WordPress Building a Website <br>
+[8 hours compelte course WordPress Tutorial (2023)](https://www.youtube.com/watch?v=09gj5gM4V98) <br>
+Estimated Time: 4h
 
 #### Content Insights:
 
+The WordPress video on YouTube was a comprehensive breakdown of using WordPress without using a plugin page builder like
+Elementor. This was an important video to find as every single tutorial used these plugins and not the core
+functionality of WordPress like we were required to use for the assignment. The video went into detail on the entire
+dashboard and then went through how to actually make a site. It provided valuable insights into how WordPress can be
+used more effectively and the capabilities of some features I hadn't realised yet.
+
 #### Career/Employability/Learning Insights:
+
+In completing this course, I did not want to dedicate the full 8-hours. I watched it on double speed in order to half
+the amount of time taken and skipped elements I was familiar with to reduce the time on any repeated content. The
+objective in watching this video was just to see how someone else really used WordPress to create a website and pick up
+on all the extra features that I could not figure out what they did yet in my own muck around sessions in WordPress.
+
+### Learning Activity
+
+Docker Compose and Azure <br>
+[Tutorial: Deploy a multi-container group using Docker Compose](https://learn.microsoft.com/en-us/azure/container-instances/tutorial-docker-compose) <br>
+Estimated Time: 10m
+
+#### Content Insights:
+
+This website documents how to use a docker compose file and tweak it to work with Azure's container registry.
+
+#### Career/Employability/Learning Insights:
+
+I was skeptical about using Microsoft's own documentation at this point. Half of the information I found was outdated on
+Azure's documentation. I retained this website to use a reference as I attempt to use this information to create the
+staging and production side using Docker and Azure. If unsuccessful, I will discontinue using Microsoft as a point of
+reference and stick to third-party information that is more up-to-date.
