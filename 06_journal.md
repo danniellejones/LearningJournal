@@ -4,7 +4,7 @@
 
 **Weekly Objectives:**
 
-- [ ] Finalise team local, staging and production environment
+- [ ] Prepare proposal for team local, staging and production environment
 - [x] Initial first team meeting
 - [ ] Initialise team project management workflow: Trello, Slack, GitHub, Discord
 
