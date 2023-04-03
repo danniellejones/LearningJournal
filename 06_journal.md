@@ -4,9 +4,10 @@
 
 **Weekly Objectives:**
 
-- [ ] Prepare proposal for team local, staging and production environment
+- [ ] Prepare proposal for team local, staging and production environment (_Roadblock_)
 - [x] Initial first team meeting
-- [ ] Initialise team project management workflow: Trello, Slack, GitHub, Discord
+- [x] Initialise team project management workflow: Trello, Slack, GitHub, Discord _(Everything set up apart from Slack -
+  still to be fully tested)_
 
 ### Learning Activity
 
