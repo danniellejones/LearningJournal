@@ -45,11 +45,13 @@ Estimated Time: 5h 52m
 #### Content Insights:
 
 For each directory there should be an index.php file to prevent exposing files (security issue). If having a members
-section, create a directory for those pages under a folder called members in the public directory. 
+section, create a directory for those pages under a folder called members in the public directory. Initialise php file
+can be useful for containing constants for the directory paths in one place, it still means that the directory path for
+initialise will be a specified path. Create a function to find the absolute URL, this is a handy tool. 
 
 #### Career/Employability/Learning Insights:
 
 I found understanding some of this video a little overwhelming. It was not clear about what and why we were doing these
 tasks at times. I attempted just to pick up on small snippets of relevant information as re-watching and slowing down
 the video did not help my understanding. I think this is because when the 'why' was explained, it was short and
-there wasn't a lot of visual information to assist understanding early, before the demonstration.
+there wasn't a lot of visual information to assist understanding before the demonstration.
