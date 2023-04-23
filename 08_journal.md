@@ -19,6 +19,16 @@
 
 Learning Experiment <br>
 
+Context: <br>
+One of the hardest aspects I have faced is learning how to work better in teams. If I reflect on my previous experiences
+in group work, I am concerned that I often put myself in an odd position and appear to generally be the person trying to
+direct the team back on topic if it has strayed or making decisions when it is time to move forward from an activity.
+While this is appropriate for teams where I am delegated team leader; I feel that this approach is less appropriate in
+teams without a delegated leader. I really need a way to ensure that the team members are aware of the need to move
+forward, so that it is less of a requirement for me to interject at times. Hopefully, in learning to integrate something
+into the team work process, it will enable me to work better in teams and develop better relationships with my team
+members.
+
 Experiment: <br>
 Teamwork has been difficult to coordinate remotely as it is hard to determine if everyone is always present and
 attentive during meetings. This has caused meetings to become unnecessarily long (approx. 3 hours) and not an effective
@@ -56,7 +66,37 @@ Estimated Time: 7h 5m
 
 #### Content Insights:
 
+The LinkedIn videos went through the process of creating a custom theme. It made use of gulp, node.js and npm as part of
+its initial setup. It also discussed useful plugins such as: developer (with theme check) and show current template.
+There were many other steps to set up the gulp, npm and node aspects; these seemed more advanced tools that helped with
+mobile first development and compressing Sass. It suggested to design by starting on mobile and adding a media
+breakpoint where the design appeared weird. Source maps are used to help find where to put the css code into the sass
+folder, this is where gulpfile.js comes in to help. It needs to be toggled on in the browser settings enable CSS source
+maps.
+
+Suggested steps to change theme:
+
+1. Change fonts: Google fonts add to enqueue of functions.php, provide backup font families
+2. Heading sizes - check for all font responsiveness
+3. Set up consistent media queries size constants: 600px, 900px - in variables-site folder _structure.scss
+4. Check order of styles.scss for loading order and re-order if required
+5. Go to content site/site.scss and insert new import statement for a new file global layout, create new _global sass
+   file in the layout folder
+6. In global scss add in layout css with media queries for responsiveness
+7. Start from top to bottom with each module
+
 #### Career/Employability/Learning Insights
+
+It was a little concerning when I saw the set-up using gulp, node and npm as these were not elements that our group had
+intended to use. We chose underscores because it did not have all these other dependencies, there were other starter
+themes that did have these that we looked at. It made it important that I watched more of these videos to understand
+what is the reason these were used.
+
+There is so much to learn about building custom themes; therefore, it will be important to prioritise the key elements
+to learn first and worry about more advanced features after becoming more familiar. A select number of items to modify
+for the group project custom theme should be implemented to start. These features should easily accommodate the client's
+provided content and needs. There are certainly aspects that need to be discussed with the group as to the approach
+taken to creating our custom theme.
 
 ### Learning Activity
 
