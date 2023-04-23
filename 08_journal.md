@@ -6,7 +6,7 @@
 
 - [x] Create a learning experiment
 - [x] Reflect on learning experiment success/failures
-- [ ] Learn about using underscores starter theme
+- [x] Learn about using underscores starter theme
 
 **Stand-Up Meeting:** <br>
 [11/04/2023 - Meeting 03](https://youtu.be/pjwi8bn54BI) <br>
