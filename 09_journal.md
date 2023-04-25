@@ -29,7 +29,7 @@ Estimated Time: 6h 30m
 #### Content Insights:
 
 On watching the LinkedIn video on Sass training, as a beginner course I felt it started out beyond my level of
-understanding for just the setup. I instead referred to other tutorial videos to see if I could piece together an
+understanding. I instead referred to other tutorial videos to see if I could piece together an
 understanding of how the setup for Sass worked. Each video I looked at used a sass compiler extension, which was not
 what I was trying to understand. The video 'stop using an extension to compile Sass' gave a clear explanation of why not
 to use extensions (robustness and updates), but the alternative option offered did not involve gulp like the other
@@ -131,7 +131,7 @@ exports.default = series(
     broswersyncServer,
     watchTask
 );
-* ```
+```
 
 * Once gulp file is set up, run command: `gulp`
 
