@@ -4,7 +4,7 @@
 
 **Weekly Objectives:**
 
-- [ ] Understand UX in relation to group project
+- [x] Understand UX in relation to group project
 
 **Stand-Up Meeting:** <br>
 [00/00/2023 - Meeting 06]()
@@ -55,4 +55,28 @@ Estimated Time: 1h 57m
 
 #### Content Insights:
 
+Information architecture should be clear so that the user can focus on their task.
+
+Use card sort to see how your user would organise the content. Use at least 15 participants. The steps:
+
+* Step 1: Get user to organise cards into groups, each card has a task written on it (products to search for, produce to
+  improve, tasks to perform on the site). These should be either phrases as a task or content, but not both.
+* Step 2: If group has more than 10 cards, then get the user to split them again.
+* Step 3: Get them to write a title for that group.
+* Step 4: Ask, what is the overall pattern here? Were there any group difficult to create? Were any cards difficult to
+  put into a group?
+* Step 5: Collate the results from all participants using card number references. Analyse using a spreadsheet looking
+  for synonyms, common factors and different ways items were grouped. Use a tally.
+* Step 6: Use cluster analysis and dendrogram created through the use of software tools to identify further
+  patterns. [UXSort](https://sites.google.com/a/uxsort.net/uxsort/home) is a windows based tool to
+  use. [Optimal Sort](https://www.optimalworkshop.com/optimalsort/) is another useful online tool.
+* Step 7: Optimise by considering depth and breadth. 
+* Step 8: Validate by using reverse sorting. Tree-jack can be used for computer-based reverse sorting from Optimal tool.
+
 #### Career/Employability/Learning Insights:
+
+It is important that you gain insight from the user about how the information should be organised the language they
+would use to describe the content. This will improve the user experience to easily find what they are looking for. Due
+to time at this stage in the project, it will be difficult to implement this into this group project; it is more
+practical to consider this information for future projects and perhaps see if there is a short version that can be
+implemented for this project.
