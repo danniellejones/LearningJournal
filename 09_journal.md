@@ -4,11 +4,11 @@
 
 **Weekly Objectives:**
 
-- [ ] Create small website using Sass
-- [ ] Group project: finalise decisions regarding layout, css/sass, content, planning, workflow (if able)
+- [x] Create small website using Sass
+- [x] Group project: finalise decisions regarding layout, css/sass, content, planning, workflow (if able)
 
 **Stand-Up Meeting:** <br>
-[25/04/2023 - Meeting 05]()
+[25/04/2023 - Meeting 05](https://youtu.be/kWc3kiOssig)
 
 **Team Project:** <br>
 [GitHub - Team04](https://github.com/cp3402-students/cp3402-2023-a2-team04)
@@ -77,7 +77,7 @@ Gulp <br>
     * gulp-postcss - uses cssnano (post css plugin)
     * gulp-terser - minimises javascript file
     * browser-sync - auto-syncs browser throughout development
-* Create `gulpfile.js`, example below:
+* Create `gulpfile.js`, example below _(outdated, for example purposes only)_:
 
 ```
 const { src, dest, watch, series} = require('gulp');
