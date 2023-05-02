@@ -7,7 +7,7 @@
 - [x] Understand UX in relation to group project
 
 **Stand-Up Meeting:** <br>
-[00/00/2023 - Meeting 06]()
+[02/05/2023 - Meeting 06](https://youtu.be/4D0E_Vo1IBc)
 
 **Team Project:** <br>
 [GitHub - Team04](https://github.com/cp3402-students/cp3402-2023-a2-team04) <br>
