@@ -166,8 +166,11 @@ use of these elements.
 
 <br>
 
-Note to self:
-If using PHPStorm file watcher use these parameters and paths - defaults do not work as desired.
+**Instructions to use local with PHPStorm:**
+
+1. Install node.js
+2. Command line install npm sass globally `npm install -g sass`
+3. If using PHPStorm file watcher use these parameters and paths - defaults do not work as desired.
 ```
 $FileName$:$ProjectFileDir$/css/$FileNameWithoutExtension$.css
 $ProjectFileDir$/css/$FileNameWithoutExtension$.css:$ProjectFileDir$/css/$FileNameWithoutExtension$.css.map
