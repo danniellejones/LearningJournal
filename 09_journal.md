@@ -166,6 +166,13 @@ use of these elements.
 
 <br>
 
+Note to self:
+If using PHPStorm file watcher use these parameters and paths - defaults do not work as desired.
+```
+$FileName$:$ProjectFileDir$/css/$FileNameWithoutExtension$.css
+$ProjectFileDir$/css/$FileNameWithoutExtension$.css:$ProjectFileDir$/css/$FileNameWithoutExtension$.css.map
+```
+
 #### Career/Employability/Learning Insights:
 
 The new content we are being introduced to in this subject is becoming quite heavy. Every step in information technology
@@ -179,3 +186,6 @@ As front-end development was one of the fields I was interested in as a career o
 understood each of the steps in the Sass LinkedIn tutorial. Furthermore, I thought it was important that I had a better
 understanding so that I could re-iterate this new understanding to my group if they needed further clarification, as
 this was my assigned group role (front-end).
+
+
+
