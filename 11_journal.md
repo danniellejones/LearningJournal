@@ -7,7 +7,7 @@
 - [x] Understand Security of WordPress in relation to group project
 
 **Stand-Up Meeting:** <br>
-[00/00/2023 - Meeting 07]()
+[09/05/2023 - Meeting 07](https://youtu.be/p2odxWwLX5Y)
 
 **Team Project:** <br>
 [GitHub - Team04](https://github.com/cp3402-students/cp3402-2023-a2-team04)
